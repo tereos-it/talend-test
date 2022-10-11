@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_fMvckUmAEe2CxNnWXOFAQg" label="Test_Git" description="" language="java" technicalLabel="TEST_GIT" creationDate="2022-10-11T13:11:08.000-0300" author="_fMvckkmAEe2CxNnWXOFAQg" productVersion="Talend Data Fabric-7.1.1.20211220_1040-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/tereos-it/talend-test&quot;,&quot;login&quot;:&quot;coe.othersystems@tereos.com&quot;,&quot;passwd&quot;:&quot;3yh5sFg8zMO6JsSqdvPVdp0W0RKlUjI+3XsK6IPNPop4H7XqQcNW5kFBoFDLeEUz&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI">
+    <migrationTask xmi:id="_fUcAAEmAEe2CxNnWXOFAQg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_fMvckkmAEe2CxNnWXOFAQg" login="talend.admin@tereos.com" firstName="Talend" lastName="Admin" type="MDM" additionnalData="{}"/>
+</xmi:XMI>
