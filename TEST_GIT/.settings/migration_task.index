@@ -115,6 +115,11 @@
     "version" : "5.6.1",
     "status" : "noimpact"
   }, {
+    "id" : "org.talend.core.migration.ItemSaveTriggerWholeDoc",
+    "breaks" : "7.0.0",
+    "version" : "7.0.0",
+    "status" : "ok"
+  }, {
     "id" : "org.talend.designer.components.ipaas.RenameActionComponents",
     "breaks" : "6.4.0",
     "version" : "6.5.0",
